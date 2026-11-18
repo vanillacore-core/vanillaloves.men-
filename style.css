@@ -1,7 +1,10 @@
 
-
-
 body {
     margin: 0px; 
     padding: 0px;
+}
+
+textDiv {
+    z-index:2; 
+    position: absolute;
 }
