@@ -1,9 +1,8 @@
-
+/* ====== CSS STYLE ====== */
 body {
     margin: 0px; 
     padding: 0px;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
 }
 
 .overlayDiv {
@@ -18,3 +17,14 @@ body {
     color:black;
     
 }
+
+.socialsButton {
+  background-color: #1b1b1b;
+  color: white;
+  padding: 7px 12px;
+  text-decoration: none;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
